@@ -12,7 +12,7 @@ This project analyzes rental housing listings across Germany to identify the key
 * Build machine learning models to predict rental prices
 * Generate actionable insights for data-driven pricing decisions
 
-## Methodology fdfbgxb
+## Methodology 
 
 **Data Preparation**
 
